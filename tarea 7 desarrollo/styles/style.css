@@ -1,0 +1,124 @@
+* {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    text-align: center;
+    margin-top: 50px;
+    color: #ffb703;
+}
+
+#titulo p {
+    text-align: center;
+    font-size: 25px;
+}
+
+body {
+    background-color: #023047;
+}
+
+.card {
+    width: 300px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#ejercicios {
+    margin-top: 100px;
+    align-items: center;
+    position: relative;
+    margin-bottom: 60%;
+}
+
+#ejercicio1,
+#ejercicio2,
+#ejercicio3,
+#ejercicio4,
+#ejercicio5,
+#ejercicio6 {
+    float: left;
+}
+
+#botonregresar,
+#botonir {
+    background-color: #8ecae6;
+    color: #023047;
+    border-color: #ffb703;
+}
+
+#ejercicio1_0,
+#ejercicio1_1,
+#ejercicio1_2 {
+    font-size: 35px;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 200px;
+    float: left;
+    align-items: center;
+}
+
+#ejercicio1_0 {
+    background-color: #fb8500;
+    list-style-type: square;
+}
+
+#ejercicio1_0 li,
+#ejercicio1_1 li,
+#ejercicio1_2 li {
+    margin-left: 10px;
+}
+
+#ejercicio1_1 {
+    background-color: #ffb703;
+}
+
+#ejercicio1_2 {
+    background-color: #8ecae6;
+}
+
+#ejercicio_numero4 {
+    margin-top: 100px;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10%;
+    background-color: #ffb703;
+    font-size: 35px;
+}
+
+#ejercicio_numero_4,
+#ejercicio_numero_4_1 {
+    margin-top: 100px;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10%;
+    background-color: #ffb703;
+    font-size: 35px;
+}
+
+#ejerci3 {
+    margin-top: 100px;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10%;
+    background-color: #ffb703;
+    font-size: 35px;
+}
+
+#ejercicio_numero6,
+#ejercicio_numero61,
+#ejercicio_numero62,
+#ejercicio_numero63,
+#ejercicio_numero64,
+#ejercicio_numero65,
+#ejercicio_numero66,
+#ejercicio_numero67 {
+    margin-top: 100px;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10%;
+    background-color: #ffb703;
+    font-size: 35px;
+}
